@@ -29,7 +29,7 @@ images_link=set(svg_sil())
 def size():
     for i in images_link:
       img_size = rq.get(i).content
-      if (len(img_size) / 1024) > 50:
+      if (len(img_size) / 1024) > 100:
           print(i + " Bu resim dosyası optimize edilmeli")
 size()
 
