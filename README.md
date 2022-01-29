@@ -9,6 +9,10 @@ Resim boyutlarının neden önemli olduğunu anladığınza göre web sitenizdek
 
 Web site hızı ve SEO ilişkisi : Web siteniz ne kadar hızlı olursa Google Arama Sonuçlarında üst sıralarda çıkmanız bir o kadar muhtemeldir.SEO açısından bir web sitesindeki görseller mutlaka optimize edilmedilir.
 
+Gerekli modüllerin indirilmesi için şu komutu giriniz:
+
+pip install -r requirements.txt
+
 
 
 
